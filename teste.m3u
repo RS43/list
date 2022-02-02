@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png",JOGO ABERTO
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i.imgur.com/l5NOPFp.png",TV CÂMARA
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i.imgur.com/l5NOPFp.png",TV CÂMARA
+http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
