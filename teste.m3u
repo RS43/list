@@ -1,15 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="http://i.imgur.com/Jotugf0.png",SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png",JOGO ABERTO
-http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="https://i.imgur.com/l5NOPFp.png",TV CÂMARA
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-#EXTINF:-1 group-title="Canais" tvg-logo="https://i.imgur.com/l5NOPFp.png",TV CÂMARA
-http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
+#EXTINF:-1 ,Record - Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 ,Record - BA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 ,TV União Brasília
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 ,Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 ,Metrópole News TV
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
+#EXTINF:-1 ,PUC TV Goiás
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 ,Record - GO
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1 ,TV Brasil Central
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+#EXTINF:-1 ,TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1 ,Record - MG
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 ,AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 ,TV Assembleia MT
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:-1 ,Record - PA
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 ,TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
+#EXTINF:-1 ,TV Jornal
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 ,Record - RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1 ,UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 ,Record - SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 ,Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 ,Rede Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 ,Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?
