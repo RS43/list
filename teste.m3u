@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", JONA
+https://download2390.mediafire.com/fu96rw6t8bxgV36sSJDfLAKvdUNteFBW7HciM-hEruYj73qYjrLQwBIMqLf1CTaukL_y_i36m_9nOhIKzrll_daOCwuZxgC-oOb6JamMXq07nwxdwiLUwL4VMmTrNIt8dbEQqpxRFgwHWBNoZ-fH7Q75AuOiu2SjIF2azZF67s30Z8w/aln5jh5thkbk3u7/394b77f02a88a142a3fcec796071c4a5.mp4
+
 #EXTINF:-1 group-title="A novidade" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",KFood | Brasil: esportes - lifestyle - realities
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 #EXTINF:-1 group-title="Brasil: cinema em português" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",Adrenalina Freezone | Pluto TV Brasil
