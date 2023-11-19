@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIVA
+https://0073-jbc.dtvott.com/dash_live_0073/dash/0073_VIVA-video=3930000-102026074583486.dash
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", BESOURO.AZUL.2023
 https://download2390.mediafire.com/fu96rw6t8bxgV36sSJDfLAKvdUNteFBW7HciM-hEruYj73qYjrLQwBIMqLf1CTaukL_y_i36m_9nOhIKzrll_daOCwuZxgC-oOb6JamMXq07nwxdwiLUwL4VMmTrNIt8dbEQqpxRFgwHWBNoZ-fH7Q75AuOiu2SjIF2azZF67s30Z8w/aln5jh5thkbk3u7/394b77f02a88a142a3fcec796071c4a5.mp4
 
